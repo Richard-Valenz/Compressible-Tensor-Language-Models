@@ -4,8 +4,6 @@
 
 ### A structured MPO Representation for Large Language Models
 
-*Can a large language model be rewritten as chains of small tensors, cut, and retrained back to its original quality?*
-
 <br>
 
 ![Poster](https://img.shields.io/badge/POSTER-Cambridge_2026-555555?style=for-the-badge)
@@ -106,20 +104,6 @@ The detailed methodology will be published here shortly:
 * a write-up with the full experimental protocol.
 
 Watch or star the repository to be notified.
-
----
-
-## 📖 Citation
-
-```bibtex
-@misc{valenzuela2026compressible,
-  title        = {Compressible Tensor Language Models: A structured MPO Representation for Large Language Models},
-  author       = {Valenzuela Castro, Richard},
-  year         = {2026},
-  howpublished = {Poster, Cambridge},
-  url          = {https://github.com/Richard-Valenz/Compressible-Tensor-Language-Models}
-}
-```
 
 ---
 
